@@ -12,7 +12,7 @@
 
 
 ### Github提交次数<br/>
-> #### 一个人可以逃避世间的一切魔鬼，但惟有一个是他永远无法摆脱的，那就是懦弱的自己<br/>
+> #### 人间总有一两风，填我十万八千梦<br/>
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=2002XiaoYu&show_icons=true&theme=dark&count_private=true)
 
 <!-- github使用语言 -->
