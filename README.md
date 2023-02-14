@@ -3,7 +3,7 @@
 ### 大二学生(专科) 技术栈：前端+后端Go
 
 
-> 百万编程笔记库：https://www.yuque.com/icu0(共创主要成员)
+> 百万编程笔记库： https://www.yuque.com/icu0 (共创主要成员)
 ### 个人原创笔记知识库：https://github.com/2002XiaoYu/Latest-front-end-Notes
 
 
