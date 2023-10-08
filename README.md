@@ -1,6 +1,6 @@
 ## Welcome to XiaoYu's GitHub
 
-### 大二学生(专科) 技术栈：前端+后端Go
+### 大三学生(专科) 技术栈：前端+后端Go
 
 
 > 百万编程笔记库： https://www.yuque.com/icu0 (共创主要成员)
