@@ -17,6 +17,4 @@
 
 <!-- github使用语言 -->
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2002XiaoYu0&theme=dark&layout=compact) -->
-
-### 下一站：专升本上岸
 <br/>
