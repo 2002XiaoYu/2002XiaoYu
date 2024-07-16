@@ -1,6 +1,6 @@
 ## Welcome to XiaoYu's GitHub
 
-### 大三学生(专科) 技术栈：前端 + NodeJS
+### 大三学生(本科) 技术栈：前端 + NodeJS
 
 
 > 个人博客网站：xiaoyu2002.cn
